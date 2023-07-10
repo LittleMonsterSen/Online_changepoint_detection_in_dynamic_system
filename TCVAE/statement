@@ -1,0 +1,2 @@
+code refer to https://github.com/rtqichen/beta-tcvae/tree/1a3577dbb14642b9ac27010928d12132d0c0fb91
+we slightly change the loss function and neural network to satisfy our study
