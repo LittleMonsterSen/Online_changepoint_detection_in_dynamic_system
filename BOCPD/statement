@@ -1,0 +1,2 @@
+we borrow code from https://github.com/hildensia/bayesian_changepoint_detection
+We extended the code to multivariate sequance, which are correlated, and added the algorithm to find changepoints set with maximum likelihood
